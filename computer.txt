@@ -4,6 +4,8 @@ variables
 data types
 loops
 conditional statements
-
+arithemtics operationnn
+conditional operation
+functions
 
 exception handling
