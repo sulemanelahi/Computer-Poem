@@ -6,6 +6,8 @@ loops
 conditional statements
 arithemtics operationnn
 conditional operation
+poinnter
+object oriented programming
 functions
 
 exception handling
