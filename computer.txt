@@ -1,5 +1,4 @@
-Hello World and hackers
-
+Hello World
 variables
 data types
 loops
@@ -7,8 +6,8 @@ conditional statements
 arithemtics operationnn
 conditional operation
 poinnter
-object oriented programming hack
+object oriented programming 
 functions
 
 exception handling
-and hackinng
+
